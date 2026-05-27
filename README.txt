@@ -1,1 +1,0 @@
-Agrega tu música en music/canon.mp3
